@@ -6,6 +6,11 @@ import androidx.fragment.app.DialogFragment;
 import android.os.Bundle;
 import android.view.View;
 
+
+/*
+GitHub: https://github.com/udofritzke/FragmentosDataEHora
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override

@@ -12,7 +12,7 @@ import androidx.fragment.app.DialogFragment;
 import java.util.Calendar;
 
 /*
-Exemplo de https://developer.android.com/develop/ui/views/components/pickers#java
+Exemplo de https://github.com/udofritzke/FragmentosDataEHora
  */
 
 public class FragmentoTimePicker extends DialogFragment
