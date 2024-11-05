@@ -1,10 +1,14 @@
-package com.example.fragmentosdataehora;
+package Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.DialogFragment;
 
 import android.os.Bundle;
 import android.view.View;
+
+import Fragments.FragmentoDatePicker;
+import Fragments.FragmentoTimePicker;
+import com.example.fragmentosdataehora.R;
 
 
 /*
